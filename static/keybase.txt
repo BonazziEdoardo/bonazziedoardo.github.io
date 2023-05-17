@@ -4,10 +4,8 @@ https://keybase.io/dedeswim
 
 I hereby claim:
 
-  * I am an admin of https://edoardo.science
-  * I am dedeswim (https://keybase.io/dedeswim) on keybase.
-  * I have a public key with fingerprint 8E81 5ED3 DA2C 13ED 56D1  6A54 FE03 2FA8 D678 0AC5
-
+  * I am an admin of https://bonazziedoardo.github.io
+  * I am Edoardo Bonazzi
 To do so, I am signing this object:
 
 {

@@ -32,7 +32,7 @@ education:
     institution: Bocconi University, Italy Bocconi 🇮🇹
     year: 9/2020 – today
   - course: Exchange Semester
-    institution: Technische Universität München, Germany
+    institution: Technische Universität München, Germany 🇩🇪
     year: Fall 2022 
   - course: Maturità Scientifica 
     institution: Liceo Scientifico Édouard Bérard, Aosta 🇮🇹
@@ -84,6 +84,6 @@ email: ""
 # - 
 ---
 
-I am a **Maths & Computer Science Ph.D. Student** at Bocconi University. This is a first attempt to build my personal website! 
+I am a **Maths & Computer Science BSc Student** at Bocconi University. This is a first attempt to build my personal website! 
 
 [comment]: <I attended [**Military Navy College** "F. Morosini"](http://www.marina.difesa.it/EN/training_institute/morosini/Pagine/default.aspx), in Venice, I am a member of [LeadTheFuture](https://leadthefuture.tech), the leading mentoring program for STEM students in Italy, and I have been junior entrepreneur at [JEToP](https://jetop.com).>
