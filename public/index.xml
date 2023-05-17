@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edoardo Bonazzi</title>
+    <link>https://edoardobonazzi.github.io/</link>
+      <atom:link href="https://edoardobonazzi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edoardo Bonazzi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://edoardobonazzi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Edoardo Bonazzi</title>
+      <link>https://edoardobonazzi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>News</title>
+      <link>https://edoardobonazzi.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://edoardobonazzi.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[11/2022 - &lt;em&gt;A Light Recipe to Train Robust Vision Transformers&lt;/em&gt; accepted at SaTML]&lt;/strong&gt; The paper derived from my master thesis was accepted at the &lt;a href=&#34;https://satml.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Conference on Secure and Trustworthy Machine Learning&lt;/a&gt; (SaTML). I&amp;rsquo;m looking forward to presenting my paper in February!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/2022 - New paper: &lt;em&gt;A Light Recipe to Train Robust Vision Transformers&lt;/em&gt;]&lt;/strong&gt;  We uploaded on arXiv the paper derived from my Master&amp;rsquo;s thesis, with additional experiments and insights. Take a look &lt;a href=&#34;https://arxiv.org/abs/2209.07399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[08/2022 - I started my PhD]&lt;/strong&gt; On August 1st, 2022, I started my PhD at ETH Zürich, in the Privacy and Security Lab of Prof. &lt;a href=&#34;https://floriantramer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Tramèr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/05/2022 - I earned my MSc at EPFL!]&lt;/strong&gt; On April 27th I successfully defended my MSc thesis about Adversarially Robust Vision Transformers! You can read it &lt;a href=&#34;https://edoardobonazzi.github.io/publication/thesis/&#34;&gt;here&lt;/a&gt;. Feel free to contact me if you have any questions about it!&lt;/p&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://edoardobonazzi.github.io/newslist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://edoardobonazzi.github.io/newslist/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[11/2022 - &lt;em&gt;A Light Recipe to Train Robust Vision Transformers&lt;/em&gt; accepted at SaTML]&lt;/strong&gt; The paper derived from my master thesis was accepted at the &lt;a href=&#34;https://satml.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Conference on Secure and Trustworthy Machine Learning&lt;/a&gt; (SaTML). I&amp;rsquo;m looking forward to presenting my paper in February!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/2022 - New paper: &lt;em&gt;A Light Recipe to Train Robust Vision Transformers&lt;/em&gt;]&lt;/strong&gt;  We uploaded on arXiv the paper derived from my Master&amp;rsquo;s thesis, with additional experiments and insights. Take a look &lt;a href=&#34;https://arxiv.org/abs/2209.07399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[08/2022 - I started my PhD]&lt;/strong&gt; On August 1st, 2022, I started my PhD at ETH Zürich, in the Privacy and Security Lab of Prof. &lt;a href=&#34;https://floriantramer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florian Tramèr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/05/2022 - I earned my MSc at EPFL!]&lt;/strong&gt; On April 27th I successfully defended my MSc thesis about Adversarially Robust Vision Transformers! You can read it &lt;a href=&#34;https://edoardobonazzi.github.io/publication/thesis/&#34;&gt;here&lt;/a&gt;. Feel free to contact me if you have any questions about it!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
